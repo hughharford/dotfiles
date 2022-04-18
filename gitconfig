@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hugh.harford@poscoconsulting.com
+	name = Hugh Harford
